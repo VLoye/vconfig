@@ -33,13 +33,13 @@ public class Main {
         System.out.println(order);
 ////        System.out.println(byte[].class.getName());
 ////        System.out.println(int[].class.getName());
-        List<String> list = new ArrayList<String>();
-        System.out.println(list.getClass().getCanonicalName());
-        System.out.println(list.getClass().getSimpleName());
-        System.out.println(list.getClass().getTypeName());
-        System.out.println(list.getClass().getName());
-        System.out.println(list.getClass().getTypeName());
-//        System.out.println(list.getClass().);
+//        List<String> list = new ArrayList<String>();
+//        System.out.println(list.getClass().getCanonicalName());
+//        System.out.println(list.getClass().getSimpleName());
+//        System.out.println(list.getClass().getTypeName());
+//        System.out.println(list.getClass().getName());
+//        System.out.println(list.getClass().getTypeName());
+////        System.out.println(list.getClass().);
 //        System.out.println(config.getList());
 
 
